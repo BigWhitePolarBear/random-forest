@@ -1,0 +1,1 @@
+make 命令编译后，下载 mnist 数据集：http://yann.lecun.com/exdb/mnist/ 四个文件，到可执行文件同目录即可运行。
